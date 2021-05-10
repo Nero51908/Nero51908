@@ -2,7 +2,7 @@
 
 ## I'm a junior engineer.
 - 🦄 Graduating from UniMelb with MEng in Dec 2020
-- ⚡ 2020 Goal: To find an engineering job for living
+- ⚡ 2021 Goal: Become an archer.
 - 🍱 Telecommunications/Electrical/Eletronics/Software Engineering
 - 🖍 Love drawing
 ### Connect with me:
