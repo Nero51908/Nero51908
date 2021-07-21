@@ -1,8 +1,8 @@
 ### Hello, I'm Nero.
 
-## I'm a junior engineer.
-- 🦄 Graduating from UniMelb with MEng in Dec 2020
-- ⚡ 2021 Goal: Become an archer.
+## I'm a junior electrical engineer.
+- 🦄 Graduated from the University of Melbourne 
+- ⚡ 2021 Goal: Thrive as an engineer/ digital artist ( and I am an archer now).
 - 🍱 Telecommunications/Electrical/Eletronics/Software Engineering
 - 🖍 Love drawing
 ### Connect with me:
